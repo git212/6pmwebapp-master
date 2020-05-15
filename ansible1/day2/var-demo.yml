@@ -11,5 +11,5 @@
     - name: clone git repo
       git:
         repo: "{{git_url}}"
-        dest: /tmp/hari
+        dest: /tmp/bharat
      
